@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment - NEVER commit API keys
+.env
+
+# Windows exe and compiled artifacts
+*.exe
+*.cs
+*.vbs
+
+# Logs and temp
+*.log
+*.txt
+*.tmp
+
+# Windows-only build/install scripts
+*.bat
+*.ps1
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pkg cache
+.pkg-cache/
